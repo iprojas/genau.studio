@@ -142,7 +142,7 @@
 	}
 	
 	.indent-title .hero-title-wrapper {
-		margin-bottom:0px;	
+		margin-bottom:0px;
 	}
 	
 	.marquee-title .hero-title-wrapper {
@@ -168,7 +168,7 @@
 	.hero-title {
 		font-size:9vw;
 		line-height:11vw;
-		font-weight:500;
+		font-weight:700;
 		font-family: 'basis_grotesque_promedium', sans-serif;
 		position: relative;
 		display:block;
